@@ -1,0 +1,2 @@
+include ':app', ':HERE-sdk', ':HERE-sdk-javadoc'
+rootProject.name='TestHereMaps'
